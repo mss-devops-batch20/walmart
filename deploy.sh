@@ -1,3 +1,4 @@
+updating this line for stash
 hello
 this line updating in master branch
 merge conflict
